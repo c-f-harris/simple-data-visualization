@@ -1,4 +1,4 @@
 
-- - - simple-data-visualization - - -
+SIMPLE DATA VISUALIZATION
 
 Simple data visualization with Python

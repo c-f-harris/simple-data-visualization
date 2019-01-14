@@ -1,4 +1,4 @@
 
-#simple-data-visualization
+- - - simple-data-visualization - - -
 
 Simple data visualization with Python
